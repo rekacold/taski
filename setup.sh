@@ -5,7 +5,7 @@ sudo apt upgrade
 sudo apt install tree
 
 echo "Установка системных утилит..."
-sudo apt install -y tree python3-pip python3-venv
+sudo apt install python3-pip python3-venv -y
 
 echo ""
 echo "=========================================="
